@@ -8,6 +8,7 @@ gem 'rails', '3.2.16'
 gem 'mysql2', '~> 0.3.11'
 gem 'iconv'
 gem 'thor'
+gem 'thin', '~> 1.6.3'
 
 # Gems used only for assets and not required
 # in production environments by default.
